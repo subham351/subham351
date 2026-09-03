@@ -1,42 +1,58 @@
 👋 Hi, I'm S Subham Patro
 🚀 MERN Stack Developer
 
-I'm a MERN Stack Developer passionate about building modern, scalable, and user-friendly full-stack web applications. I enjoy turning ideas into practical digital solutions and continuously improving my skills through real-world projects.
+I'm a MERN Stack Developer focused on building modern, scalable, and user-friendly web applications.
 
-🛠️ Tech Stack
+- 💻 Passionate about full-stack web development
+- ⚛️ Experienced with React.js and modern JavaScript
+- 🛠️ Building backend applications with Node.js & Express.js
+- 🗄️ Working with MongoDB and REST APIs
+- 🌱 Continuously learning and improving my development skills
+- 🛠️ Tech Stack
+
 Frontend
+
 ⚛️ React.js
 🟨 JavaScript
 🌐 HTML5
 🎨 CSS3
+
 Backend
+
 🟢 Node.js
 🚂 Express.js
 🔗 REST APIs
+
 Database
+
 🍃 MongoDB
-Tools & Technologies
+
+Tools
+
 🔧 Git
 🐙 GitHub
 💻 VS Code
+
 🚀 What I Do
-💻 Build responsive and user-friendly web applications
-⚛️ Develop modern React.js interfaces
-🛠️ Create RESTful APIs with Node.js and Express.js
-🗄️ Design and work with MongoDB databases
-🔐 Build secure and scalable full-stack applications
-📚 Continuously learn and explore new technologies
+
+Build responsive and user-friendly web applications
+Develop modern frontend interfaces with React.js
+Create scalable backend services using Node.js & Express.js
+Design and manage MongoDB databases
+Build and integrate RESTful APIs
+Focus on clean, maintainable, and scalable code
+
 📌 Currently
 
-🚀 Building and improving full-stack MERN applications
-📚 Strengthening my skills in React, Node.js, Express.js, and MongoDB
-🌱 Exploring better approaches to scalable web development
+🚀 Building full-stack MERN applications
+📚 Improving my skills in React.js, Node.js, Express.js & MongoDB
+🌱 Exploring modern web development practices
 
 🤝 Let's Connect
+
 📧 Email: subhampatro351351@gmail.com
+💻 GitHub: @subham351
 
-I'm always interested in learning, collaborating, and building interesting web development projects.
-
-If you're working on something exciting, feel free to connect and collaborate!
+I'm open to collaboration, learning opportunities, and interesting web development projects.
 
 ⭐ Thanks for visiting my profile!
